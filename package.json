@@ -1,14 +1,13 @@
 {
   "name": "sync-branches",
-  "version": "1.2.0",
+  "version": "0.0.0",
   "description": "GitHub Action to sync a branch when another one is updated",
   "main": "index.js",
-  "author": "Tre Ammatuna <tre@tretuna.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tretuna/sync-branches/issues"
+    "url": "https://github.com/5app/sync-branches/issues"
   },
-  "homepage": "https://github.com/tretuna/sync-branches#readme",
+  "homepage": "https://github.com/5app/sync-branches#readme",
   "repository": {
     "type": "git",
     "url": "git@github.com:TreTuna/sync-branches.git"
